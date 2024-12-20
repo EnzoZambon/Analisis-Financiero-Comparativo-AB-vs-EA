@@ -3,6 +3,10 @@
 El proyecto se centra en un análisis integral financiero y estratégico de dos gigantes de la industria de los videojuegos: Blizzard Entertainment y Electronic Arts. 
 Para llevar a cabo esta evaluación, se utilizó un Public Information Book (PIB) como herramienta principal, recopilando información clave de ambas compañías. Entre los datos analizados se incluyen reportes anuales, estados contables, indicadores de mercado, tendencias de precios de acciones y análisis realizados por expertos del sector.
 
+<div align="center">
+  <img src="Imagenes/activisionea.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 El objetivo principal del análisis fue proporcionar una base sólida de datos financieros y estratégicos que permitieran evaluar la situación actual de ambas empresas. Para ello, se consideraron métricas esenciales como la solvencia, la rentabilidad, la inversión y el riesgo. Este enfoque no solo buscó determinar el desempeño financiero de las empresas, sino también comprender su posición dentro de un mercado tan competitivo como el de los videojuegos.
 
 Metodología
